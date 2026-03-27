@@ -16,3 +16,4 @@ This repo is used to verify that:
 3. Mermaid code blocks are rendered to PNG and embedded inline
 4. Page hierarchy maps correctly (repo > docs > guides)
 5. Relative links between docs are resolved to Confluence page links
+
