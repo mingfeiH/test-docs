@@ -28,3 +28,7 @@ See [Architecture Overview](./architecture.md) for the system design.
 
 _Last updated: 2026-03-27 15:32 UTC — testing with cleanup fix_
 # Integration Test 20260327203516
+
+## Integration Test Section
+
+This section was added to test the doc sync pipeline at Fri Mar 27 20:36:59 UTC 2026.
