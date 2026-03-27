@@ -1,3 +1,5 @@
-space_key: GHTEST
+confluence:
+  space_key: GHTEST
+  parent_page_title: "Test Docs"
 doc_paths:
   - docs/
