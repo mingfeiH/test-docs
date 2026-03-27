@@ -25,3 +25,5 @@ See [Architecture Overview](./architecture.md) for the system design.
 | `GITHUB_APP_ID` | Yes | Your GitHub App ID |
 | `CONFLUENCE_URL` | Yes | Confluence base URL |
 | `WEBHOOK_SECRET` | Yes | Webhook signing secret |
+
+_Last updated: 2026-03-27_
