@@ -26,4 +26,4 @@ See [Architecture Overview](./architecture.md) for the system design.
 | `CONFLUENCE_URL` | Yes | Confluence base URL |
 | `WEBHOOK_SECRET` | Yes | Webhook signing secret |
 
-_Last updated: 2026-03-27 06:53 UTC — testing with fixed Confluence URL_
+_Last updated: 2026-03-27 11:22 UTC — testing with corrected Confluence base URL_
